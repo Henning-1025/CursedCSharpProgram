@@ -1,0 +1,15 @@
+/home/admin/Develop/ConsoleApp/obj/Debug/net8.0/ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+/home/admin/Develop/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfoInputs.cache
+/home/admin/Develop/ConsoleApp/obj/Debug/net8.0/ConsoleApp.AssemblyInfo.cs
+/home/admin/Develop/ConsoleApp/obj/Debug/net8.0/ConsoleApp.csproj.CoreCompileInputs.cache
+/home/admin/Develop/ConsoleApp/obj/Debug/net8.0/ConsoleApp.sourcelink.json
+/home/admin/Develop/ConsoleApp/bin/Debug/net8.0/ConsoleApp
+/home/admin/Develop/ConsoleApp/bin/Debug/net8.0/ConsoleApp.deps.json
+/home/admin/Develop/ConsoleApp/bin/Debug/net8.0/ConsoleApp.runtimeconfig.json
+/home/admin/Develop/ConsoleApp/bin/Debug/net8.0/ConsoleApp.dll
+/home/admin/Develop/ConsoleApp/bin/Debug/net8.0/ConsoleApp.pdb
+/home/admin/Develop/ConsoleApp/obj/Debug/net8.0/ConsoleApp.dll
+/home/admin/Develop/ConsoleApp/obj/Debug/net8.0/refint/ConsoleApp.dll
+/home/admin/Develop/ConsoleApp/obj/Debug/net8.0/ConsoleApp.pdb
+/home/admin/Develop/ConsoleApp/obj/Debug/net8.0/ConsoleApp.genruntimeconfig.cache
+/home/admin/Develop/ConsoleApp/obj/Debug/net8.0/ref/ConsoleApp.dll
